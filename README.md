@@ -44,11 +44,13 @@ Before this starting this lab, you should have learnt about:
 ## Introduction
 
 Welcome to the Error Handling Lab! In this lab, you will practice how to handle errors in Python programs using the try-except-else-finally blocks, as well as how to raise your own exceptions. You will be given a series of functions to modify, and your task will be to add appropriate error handling to each function to ensure that the code runs smoothly and handles any possible errors that may occur. By the end of this lab, you will have gained practical experience in handling errors in Python and be better prepared to write robust, error-free code. Let's get started!
-
 <br>
 
 **Happy coding!** :heart:
 
+## Important Notes
+
+This lab is built on top of the `functions` lab. If you couldn't complete the `functions` lab, ask your TA for the `functions` lab solution so you can do this lab on top of it.
 
 ## Requirements
 
@@ -57,7 +59,7 @@ Welcome to the Error Handling Lab! In this lab, you will practice how to handle 
 
 ## Getting Started
 
-Complete the challenges in the notebook. Follow the instructions and add your code and explanations as necessary.
+Complete the challenges in the `src` directory. Follow the instructions and add your code and explanations as necessary.
 
 ## Submission
 
